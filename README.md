@@ -11,16 +11,16 @@
 🚀 I'm currently a **Front-End Web Development learner** with the [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering/), where I'm building strong foundations in **HTML**, **CSS**, and **JavaScript**.
 
 🌱 I started my journey into software engineering because:  
-> _"[I wanted to combine my passion for technology and public service to create digital solutions that serve real needs]."_
+> _"I wanted to combine my passion for technology and public service to create digital solutions that serve real needs."_
 
 💡 I'm especially inspired by:  
-> _"[the power of open-source collaboration, the impact of civic tech, or building tools for underserved communities.]"_
+> _"the power of open-source collaboration, the impact of civic tech, or building tools for underserved communities."_
 
 🎯 My vision is to:  
-> _"[bridge the gap between technology and governance to drive digital transformation in Africa.]"_
+> _"bridge the gap between technology and governance to drive digital transformation in Africa."_
 
 📌 I would love to work on:  
-> _"[government web portals, data visualization tools, e-learning platforms, or apps that make public services more accessible.]"_
+> _"government web portals, data visualization tools, e-learning platforms, or apps that make public services more accessible."_
 
 ---
 
@@ -59,7 +59,7 @@
 
 - 💼 [LinkedIn](www.linkedin.com/in/leonard-obempong-5479a5223)
 - 📫 Email: leonardobempong@gmail.com  
-- 🖥️ Portfolio: [Coming Soon!]()
+- 🖥️ Portfolio: [In progress!](https://sites.google.com/view/leonardobempong)
 
 ---
 
