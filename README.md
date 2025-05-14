@@ -14,7 +14,7 @@
 > _"I wanted to combine my passion for technology and public service to create digital solutions that serve real needs."_
 
 💡 I'm especially inspired by:  
-> _"the power of open-source collaboration, the impact of civic tech, or building tools for underserved communities."_
+> _"the power of open-source collaboration, the impact of civic tech, and building tools for underserved communities."_
 
 🎯 My vision is to:  
 > _"bridge the gap between technology and governance to drive digital transformation in Africa."_
