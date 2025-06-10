@@ -43,15 +43,6 @@
 - Learning Git and GitHub workflows for collaboration  
 - Exploring how to integrate front-end skills with public service delivery tools
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="Leonard's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
