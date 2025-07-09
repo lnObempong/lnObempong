@@ -8,7 +8,7 @@
 
 ### 👨🏾‍💻 About Me
 
-🚀 I'm currently a **Front-End Web Development learner** with the [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering/), where I'm building strong foundations in **HTML**, **CSS**, and **JavaScript**.
+🚀 I'm currently a **Front-End Web Development learner** with the [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering/), where I'm building strong foundations in **HTML**, **CSS**, **Javascript** and **Python**.
 
 🌱 I started my journey into software engineering because:  
 > _"I wanted to combine my passion for technology and public service to create digital solutions that serve real needs."_
@@ -32,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
