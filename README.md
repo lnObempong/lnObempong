@@ -8,7 +8,7 @@
 
 ### 👨🏾‍💻 About Me
 
-🚀 I'm currently a **Front-End Web Development learner** with the [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering/), where I'm building strong foundations in **HTML**, **CSS**, **Javascript** and **Python**.
+🚀 I'm currently a **Full Stack Development learner** with the [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering/), where I'm building strong foundations in **HTML**, **CSS**, **Javascript** and **Python**.
 
 🌱 I started my journey into software engineering because:  
 > _"I wanted to combine my passion for technology and public service to create digital solutions that serve real needs."_
